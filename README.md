@@ -8,3 +8,7 @@ For this program you need :
 2 pots plugged in A0 and A1;
 1 piezo speaker on digital pin 3 (optional);
 
+Some pictures :
+<img src="https://github.com/ethanassouline/Pong/blob/master/images/image1.JPG" />
+<img src="https://github.com/ethanassouline/Pong/blob/master/images/image2.JPG" />
+<img src="https://github.com/ethanassouline/Pong/blob/master/images/image3.JPG" />
